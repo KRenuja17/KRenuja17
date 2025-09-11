@@ -75,7 +75,7 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 #  GitHub Stats:
 
 <p align = "center">
-  <img align="right" width="450" alt="Lewis" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlvYXJneWY5Mnk4bXc5N3p3Z3dnb3F1bHQ5ZmN0NzgxajkwbHlmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uzOSCSVYB4Vz2oO77M/giphy.gif"/>
+  <img align="right" width="450" alt="Vader" src="https://github.com/user-attachments/assets/7ed18ab4-c9bc-4967-82af-8847829e5ec4"/>
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KRenuja17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
