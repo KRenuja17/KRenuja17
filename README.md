@@ -69,6 +69,7 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 </div>
 
 <br>
+
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 
 #  GitHub Stats:
@@ -80,11 +81,11 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 <br>
 <p align="center">
   <br>
-  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=KRenuja17&theme=tokyonight&hide_border=false" />
+  <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=KRenuja17&theme=tokyonight&hide_border=false" />
   <br><br>
   <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=KRenuja17&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27" />
   <br><br>
-  <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=KRenuja17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/KRenuja17?tab=repositories">Explore my repositories</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/KRenuja17/KRenuja17/output/snake.svg" alt="Snake animation" />
