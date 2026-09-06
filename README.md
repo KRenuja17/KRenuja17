@@ -1,7 +1,6 @@
 <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> / A bit about me /</h2> 
 I’m a passionate full-stack developer who enjoys building user-friendly, scalable solutions with modern technologies. With experience across frontend and backend, I bring clean code, creativity, and a growth mindset to every project. Always eager to learn and collaborate, I aim to create software that makes a real impact.
-<br></br>
-<img src="https://media1.tenor.com/m/MirqZLyqQ64AAAAd/black-myth-wukong.gif" width="100%" alt="Shimarin"/>
+<br>
 
 ##  Socials:
 <p align="center">
@@ -30,7 +29,7 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
 </div>
-<br></br>
+<br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -55,7 +54,7 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
 </div>  
-<br></br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -69,25 +68,23 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
   <img width="12" />
 </div>
 
-<br></br>
+<br>
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 
 #  GitHub Stats:
 
-<p align = "center">
-  <img align="right" width="450" alt="Vader" src="https://github.com/user-attachments/assets/7ed18ab4-c9bc-4967-82af-8847829e5ec4"/>
-
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KRenuja17&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<p align="center">
+  <img align="right" width="450" alt="Vader" src="https://github.com/user-attachments/assets/7ed18ab4-c9bc-4967-82af-8847829e5ec4" />
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KRenuja17&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
-<br></br>
-<p align = "center">
-  <br></br>
-  <img src = "https://nirzak-streak-stats.vercel.app/?user=KRenuja17&theme=tokyonight&hide_border=false">
-  <br></br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=KRenuja17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <br></br>
-  <img src = "https://github-contributor-stats.vercel.app/api?username=KRenuja17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+<br>
+<p align="center">
+  <br>
+  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=KRenuja17&theme=tokyonight&hide_border=false" />
+  <br><br>
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=KRenuja17&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27" />
+  <br><br>
+  <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=KRenuja17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/KRenuja17/KRenuja17/output/snake.svg" alt="Snake animation" />
-
