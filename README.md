@@ -4,8 +4,8 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 
 ##  Socials:
 <p align="center">
-<a href="https://www.linkedin.com/in/kulith-renuja-0baaa0309/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" alt="https://linkedin.com/in/https://www.linkedin.com/in/kulith-renuja-0baaa0309/" height="60" width="60" /></a> --
-<a href="https://discord.gg/https://discord.gg/qKqdeVm7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/https://discord.gg/qKqdeVm7" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/kulith-renuja17/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" alt="https://www.linkedin.com/in/kulith-renuja17/" height="60" width="60" /></a> --
+<a href="https://discord.gg/z6Qtf3rvD" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/https://discord.gg/qKqdeVm7" height="60" width="60" /></a>
 </p>
 
 
@@ -82,8 +82,6 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 <p align="center">
   <br>
   <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=KRenuja17&theme=tokyonight&hide_border=false" />
-  <br><br>
-  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=KRenuja17&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=27" />
   <br><br>
   <a href="https://github.com/KRenuja17?tab=repositories">Explore my repositories</a>
 </p>
