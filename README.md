@@ -76,12 +76,12 @@ I’m a passionate full-stack developer who enjoys building user-friendly, scala
 
 <p align="center">
   <img align="right" width="450" alt="Vader" src="https://github.com/user-attachments/assets/7ed18ab4-c9bc-4967-82af-8847829e5ec4" />
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KRenuja17&theme=tokyonight&hide_border=false&layout=compact" />
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KRenuja17&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 <br>
 <p align="center">
   <br>
-  <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=KRenuja17&theme=tokyonight&hide_border=false" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=KRenuja17&theme=tokyonight&hide_border=false" />
   <br><br>
   <a href="https://github.com/KRenuja17?tab=repositories">Explore my repositories</a>
 </p>
